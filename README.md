@@ -31,7 +31,7 @@
 |   2    |     <a href="">pipex</a>     |    C     |                             Linux pipe,<br/> redirection, <br /> multiprocessing, <br /> blocking vs nonblocking vs async vs sync                           |     22.05.30 ~ 22.06.15     |
 |   3    |     <a href="">minishell                                        |    C     |                                                                  simple shell 만들기         |     22.06.20 ~ 22.07.15     |
 | 3 | <a href="">philosophers</a> | C | Process, <br/> Thread, <br /> Synchronization <br />  | 22.07.16 ~ 22.08.01 |
-| 3 | <a href="">Netpractice</a> | C | OSI 7 Layer, <br /> IP, Subnet Mask, <br/> Routing | 22.08.03 ~ 22.08.15 | 
+| 3 | <a href="">Netpractice</a> | Network | OSI 7 Layer, <br /> IP, Subnet Mask, <br/> Routing | 22.08.03 ~ 22.08.15 | 
 | 4 | <a href="">miniRT</a> | C | Raytracing, <br /> 3D graphics | 22.08.23 ~ 22.09.13 | 
 | 4 | <a href="">cpp</a> | C++ | OOP 기초 학습 | 22.11.28 ~ 22.12.24 | 
 | 5 | <a href="">ft_containers</a> | C++ | STL 구현하기 | 23.01.12 ~ 23.01.31 | 
