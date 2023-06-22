@@ -9,12 +9,12 @@
 
 | Circle	| 학습 목표 |
 |:---:|:------------:|
-| 0|	C프로그래밍 기초 (함수 만들기, 라이브러리, …)|
-|1|	C프로그래밍 (메모리 관리, 디버깅, …), 서버(네트워크) 기초(리눅스, VM, ...)|
-|2|	자료구조, 프로세스 통신, 그래픽스(기초 수학)|
-|3|	Shell, 운영체제(프로세스 관리・통신・동기화, …)|
-|4|	객체 지향, 네트워크, 그래픽스 (좀 더 심화된 수학)|
-|5	| Web Server, docker, container|
+| 0|	C프로그래밍 기초 |
+|1|	C프로그래밍, 서버(네트워크) 기초|
+|2|	자료구조, 프로세스 통신, 그래픽스(기초)|
+|3|	Shell, 운영체제 |
+|4|	객체 지향, 네트워크, 그래픽스 (심화)|
+|5	| Web Server, docker, STL |
 |6	|0~6 종합 및 서비스 제작|
 
 
@@ -28,7 +28,7 @@
 |   1    |   <a href="">ft_printf</a>   | C  |              가변 인자, <br /> Struct, <br /> Debugging                 |     22.02.14 ~ 22.04.13 |
 |   2    |       <a href="">push_swap</a>       |    C     |                         Algorithms, <br /> Data Structure                          |     22.04.07 ~ 22.05.01     |
 |   2    |         <a href="">so_long</a>         |    C     | 2D graphics, <br /> miniLibX |     22.05.02 ~ 22.05.28     |
-|   2    |     <a href="">pipex</a>     |    C     |                             Linux pipe,<br/> redirection, <br /> multiprocessing, <br /> blocking vs nonblocking vs async vs sync                           |     22.05.30 ~ 22.06.15     |
+|   2    |     <a href="">pipex</a>     |    C     |                             Linux pipe,<br/> redirection, <br /> multiprocessing                          |     22.05.30 ~ 22.06.15     |
 |   3    |     <a href="">minishell                                        |    C     |                                                                  simple shell 만들기         |     22.06.20 ~ 22.07.15     |
 | 3 | <a href="">philosophers</a> | C | Process, <br/> Thread, <br /> Synchronization <br />  | 22.07.16 ~ 22.08.01 |
 | 3 | <a href="">Netpractice</a> | Network | OSI 7 Layer, <br /> IP, Subnet Mask, <br/> Routing | 22.08.03 ~ 22.08.15 | 
